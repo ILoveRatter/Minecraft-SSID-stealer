@@ -24,4 +24,3 @@
 #### Embed example: 
 ![beamed](https://cdn.discordapp.com/attachments/1150522310223200286/1158482091978272768/Untitled.png?ex=651c6806&is=651b1686&hm=a048aa69da1ee2b6634b202a7cdd6a532054d12e1443b4a819bebb82147d3a70&)
 
-#### if your silly add me iloverat.9200 on discord.
